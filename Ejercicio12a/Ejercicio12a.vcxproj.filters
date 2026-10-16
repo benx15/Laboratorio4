@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\CP04\02-ej12a-invertir_numeros_fichero_PLANTILLA.cpp">
+    <ClCompile Include="02‐ej12a‐invertir_numeros_fichero_PLANTILLA.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
